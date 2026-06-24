@@ -289,3 +289,12 @@ JSON.stringify(x)
 
 
 };
+window.addEventListener("load",()=>{
+
+document.getElementById("loader").style.display="none";
+
+document.querySelector(".app").style.display="block";
+
+show(data);
+
+});
