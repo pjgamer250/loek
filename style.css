@@ -70,11 +70,8 @@ transform:rotate(360deg);
 
 
 .app{
-
-display:none;
-
+display:block;
 }
-
 
 
 header{
